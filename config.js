@@ -5,7 +5,7 @@ function convertToBool(text, fault = 'true') {
     return text === fault ? true : false;
 }
 module.exports = {
-SESSION_ID: process.env.SESSION_ID || "ඔයාගේ session id එක දාන්න",
+SESSION_ID: process.env.SESSION_ID || "KIgkyRoJ#NDqXtm-OYXhLAfhETdA3VLC_AWDwj7wPGtOaoKYUYI8",
 // add your Session Id 
 AUTO_STATUS_SEEN: process.env.AUTO_STATUS_SEEN || "true",
 // make true or false status auto seen
@@ -17,9 +17,9 @@ AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || "*SEEN YOUR STATUS BY QUEEN-SADU
 // set the auto reply massage on status reply  
 PREFIX: process.env.PREFIX || ".",
 // add your prifix for bot   
-BOT_NAME: process.env.BOT_NAME || "QUEEN-SADU-MD",
+BOT_NAME: process.env.BOT_NAME || "QUEEN-SITHU-MD",
 // add bot namw here for menu
-STICKER_NAME: process.env.STICKER_NAME || "QUEEN-SADU-MD",
+STICKER_NAME: process.env.STICKER_NAME || "QUEEN-SITHU-MD",
 // type sticker pack name 
 CUSTOM_REACT: process.env.CUSTOM_REACT || "true",
 // make this true for custum emoji react    
@@ -29,7 +29,7 @@ DELETE_LINKS: process.env.DELETE_LINKS || "false",
 // automatic delete links witho remove member 
 OWNER_NUMBER: process.env.OWNER_NUMBER || "94724534316",
 // add your bot owner number
-OWNER_NAME: process.env.OWNER_NAME || "𝐌𝐑 𝐃𝐈𝐍𝐄𝐒𝐇",
+OWNER_NAME: process.env.OWNER_NAME || "𝐌𝐑 VIHAGA",
 // add bot owner name
 DESCRIPTION: process.env.DESCRIPTION || "*© ᴩᴏᴡᴇʀᴇᴅ ʙʏ ᴍʀ ᴅɪɴᴇꜱʜ ᴏꜰᴄ*",
 // add bot owner name    
